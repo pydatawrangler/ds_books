@@ -1,0 +1,6 @@
+---
+title: "Untitled"
+format: html
+---
+
+[Tidy Modeling with R](https://www.tmwr.org/)

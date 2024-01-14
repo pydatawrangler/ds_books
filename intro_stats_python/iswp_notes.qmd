@@ -1,0 +1,11 @@
+---
+title: "General Notes"
+subtitle: "An Introduction to Statistics with Python"
+format:
+    html:
+        self-contained: true
+---
+
+Here is a link to PDF of the book in my One Drive: [An Introduction to Statistics with Python](https://1drv.ms/b/s!AjN1fD2bGraaiqF4k5qUsjO2FDt_qA?e=jE9yBn)
+
+

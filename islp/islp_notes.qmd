@@ -1,0 +1,13 @@
+---
+title: "Book Resources"
+subtitle: Introduction to Statistical Learning with Python
+author: Tom Madsen
+date: January 16, 2024
+format: 
+    html:
+        self-contained: true
+---
+
+[Github Repo for ISLP](https://github.com/intro-stat-learning/ISLP)
+
+Data files used in the book are here: [Data Files](https://github.com/intro-stat-learning/ISLP/tree/main/ISLP/data)
